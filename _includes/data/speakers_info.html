@@ -18,7 +18,7 @@
                             {% unless haswebsite == "" %}
                                <a href="{{ post.website }}">
                             {% endunless %}
-                               <img src="../css/style/img/speaker/{{ post.img }}" class="img-responsive img-centered img-speaker" alt="{{ post.alt }}">
+                               <img src="{{ site.baseurl }}/css/style/img/speaker/{{ post.img }}" class="img-responsive img-centered img-speaker" alt="{{ post.alt }}">
                             {% unless haswebsite == "" %}
                                </a>
                             {% endunless %}
