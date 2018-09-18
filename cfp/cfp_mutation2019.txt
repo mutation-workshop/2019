@@ -39,7 +39,7 @@ http://mutation-workshop.github.io/2019.
 - Mutation testing tools.
 - Industrial experience with mutation testing.
 - New mutation systems for programming languages and for higher-level
-  descriptive.
+  representations.
 - Increasing the efficiency of mutation. 
 - Mutation for mobile, internet and cloud based systems. 
 - Mutation for security and reliability.
