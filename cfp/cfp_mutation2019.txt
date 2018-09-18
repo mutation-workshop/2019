@@ -6,7 +6,7 @@ April 20, 2019, Xian, China
 https://mutation-workshop.github.io/
 
 Co-located with ICST 2019
-(11th Intl. Conference on Software Testing, Verification and Validation)
+(12th Intl. Conference on Software Testing, Verification and Validation)
 
 
 * About Mutation 2019 *
@@ -22,7 +22,8 @@ and systems V&V and uses of mutation are increasing. The goal of the Mutation
 workshop is to provide a forum for researchers and practitioners to discuss new
 and emerging trends in mutation analysis. We invite submissions of both
 full-length and short-length research papers as well as industry practice
-papers.
+papers. Please visit the website for more information:
+http://mutation-workshop.github.io/2019.
 
 
 * Topics of interest *
@@ -64,11 +65,11 @@ proceedings.
 
 * Important Dates (TBD)*
 
-- Submission of abstracts: January 12, 2019
-- Submission of full papers: January 19, 2019
-- Notification of acceptance: February 19, 2019
-- Camera Ready: February 28, 2019
-- Workshop date: April 20, 2019 
+- Submission of abstracts: 
+- Submission of full papers: 
+- Notification of acceptance: 
+- Camera Ready: 
+- Workshop date: 
 
 
 * Organization *
