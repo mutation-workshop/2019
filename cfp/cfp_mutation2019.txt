@@ -22,8 +22,7 @@ and systems V&V and uses of mutation are increasing. The goal of the Mutation
 workshop is to provide a forum for researchers and practitioners to discuss new
 and emerging trends in mutation analysis. We invite submissions of both
 full-length and short-length research papers as well as industry practice
-papers. Please visit the website for more information:
-http://mutation-workshop.github.io/2019.
+papers.
 
 
 ## Topics of interest
@@ -53,14 +52,14 @@ Three types of papers can be submitted to the workshop:
   problem descriptions, new ideas
 - Industrial papers (6 pages).
 
-Each paper must conform to the two-column IEEE conference publication format
-(https://www.ieee.org/conferences/publishing/templates.html) and must be
-submitted in PDF format via EasyChair
-(https://easychair.org/conferences/?conf=mutation2019).  Submissions will be
-evaluated according to the relevance and originality of the work and to their
-ability to generate discussions between the participants of the workshop. Three
-reviewers will review each paper and all accepted papers will be published as
-part of the ICST proceedings.
+Each paper must conform to the two-column IEEE conference publication
+[format](https://www.ieee.org/conferences/publishing/templates.html) and must be
+submitted in PDF format via
+[EasyChair](https://easychair.org/conferences/?conf=mutation2019).
+Submissions will be evaluated according to the relevance and originality of the
+work and to their ability to generate discussions between the participants of
+the workshop. Three reviewers will review each paper and all accepted papers
+will be published as part of the ICST proceedings.
 
 ## Important Dates (TBD)
 
