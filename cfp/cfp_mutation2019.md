@@ -1,7 +1,7 @@
 # CALL FOR PAPERS
 
 Mutation 2019: The 14th International Workshop on Mutation Analysis
-April 23 (tentative), 2019, Xian, China
+April 22, 2019, Xian, China
 
 https://mutation-workshop.github.io/2019
 
@@ -55,7 +55,7 @@ Three types of papers can be submitted to the workshop:
 Each paper must conform to the two-column IEEE conference publication
 [format](https://www.ieee.org/conferences/publishing/templates.html) and must be
 submitted in PDF format via
-[EasyChair](https://easychair.org/conferences/?conf=mutation2019).
+[EasyChair](https://easychair.org/conferences/?conf=mutation19).
 Submissions will be evaluated according to the relevance and originality of the
 work and to their ability to generate discussions between the participants of
 the workshop. Three reviewers will review each paper and all accepted papers
@@ -63,11 +63,11 @@ will be published as part of the ICST proceedings.
 
 ## Important Dates (TBD)
 
-- Submission of abstracts: 
-- Submission of full papers: 
-- Notification of acceptance: 
-- Camera Ready: 
-- Workshop date: 
+- Submission of abstracts: January 4, 2019
+- Submission of full papers: January 11, 2019
+- Notification of acceptance: February 10, 2019
+- Camera Ready: February 15, 2019
+- Workshop date: April 22, 2019
 
 ## Organization
 
