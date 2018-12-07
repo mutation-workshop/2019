@@ -61,7 +61,7 @@ work and to their ability to generate discussions between the participants of
 the workshop. Three reviewers will review each paper and all accepted papers
 will be published as part of the ICST proceedings.
 
-## Important Dates (TBD)
+## Important Dates
 
 - Submission of abstracts: January 4, 2019
 - Submission of full papers: January 11, 2019
