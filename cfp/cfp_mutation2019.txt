@@ -69,6 +69,15 @@ will be published as part of the ICST proceedings.
 - Camera Ready: February 15, 2019
 - Workshop date: April 22, 2019
 
+## Special Issue on Mutation Analysis and its Industrial Applications
+
+Authors of selected papers will be invited to submit an extended
+version of their paper to a special issue on _Mutation Analysis and its
+Industrial Applications_ published by the Journal of Software Testing,
+Verification and Reliability (STVR). The extended papers will go
+through the regular review process but will be assigned at least one
+reviewer from the Mutation 2019 Program Committee.
+
 ## Organization
 
 Rahul Gopinath, Saarland University, Germany
