@@ -63,8 +63,7 @@ will be published as part of the ICST proceedings.
 
 ## Important Dates
 
-- Submission of abstracts: January 4, 2019
-- Submission of full papers: January 11, 2019
+- Submission of full papers: January 21, 2019
 - Notification of acceptance: February 10, 2019
 - Camera Ready: February 15, 2019
 - Workshop date: April 22, 2019
