@@ -2,7 +2,7 @@
 title: Andreas Zeller
 name: speaker-01
 position: Professor of Software Engineering
-affiliation: Saarland University (Germany)
+affiliation: CISPA Helmholtz Center for Information Security (Germany)
 layout: default
 modal-id: 2
 img: andreas.jpg
@@ -10,7 +10,7 @@ thumbnail: andreas.jpg
 alt: Andreas Zeller
 website: https://www.st.cs.uni-saarland.de/zeller/
 topic: >
- TBD
+ Grammars for Mutation Testing
 abstract: > 
  TBD
 bio: >
