@@ -1,5 +1,15 @@
 Time,Title,Authors,Type
-08:00,Registration,
-09.00,Welcome,
-09:15,"<i>Keynote:</i> Grammars for Mutation Testing", Prof. Dr. Andreas Zeller
-10.00, Coffee,
+08:00,Registration,,
+09.00,Welcome,,
+09:15,"<i>Keynote:</i> Grammars for Mutation Testing", Prof. Dr. Andreas Zeller,
+10.00, Coffee,,
+10:30,"Medusa: Mutant Equivalence Detection Using Satisfiability Analysis", B. Kushigian and A. Rawatand R. Just, Long
+10:55,"PIT-HOM: an Extension of Pitest for Higher Order Mutation Analysis", T. Laurent and A. Ventresque, Short
+11:13,"An Empirical Comparison of Mutant Selection Assessment Metrics",J. Zhang and L. Zhang and D. Hao and L. Zhang and M. Harman, Long
+11:38,"Testing When Mobile Apps Go to Background and Come Back to Foreground", A. C. R. Paiva and J. M. E. P. Gouveia and J.-D.  Elizabeth and M. E. Delamaro, Long
+12:04,"Estimating the Number of Equivalent Mutants", A. Ayad and M. Imen and J. M. Loh and M. N. Omri and A. Mili, Short
+12.30,Lunch,,
+13.30,INSTA,,
+15.30,Coffee,,
+16.00,ITEQS,,
+16.45,Closing,,
