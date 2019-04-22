@@ -14,6 +14,7 @@
                         <div class="modal-body">
                             <h4>{{ post.title }}</h4>
                             <hr class="star-primary">
+                            {% assign slides = post.slides | strip_newlines %}
                             {% assign haswebsite = post.website | strip_newlines %}
                             {% unless haswebsite == "" %}
                                <a href="{{ post.website }}">
@@ -23,11 +24,11 @@
                                </a>
                             {% endunless %}
                             <h3>
-                            {% if post.slides != '' %}
-                              <a href="#{{ post.slides }}">
+                            {% if slides != '' %}
+                              <a href="#{{ slides }}">
                             {% endif %}
                              {{ post.topic }}
-                            {% if post.slides != '' %}
+                            {% if slides != '' %}
                               </a>
                             {% endif %}
                          </h3>
