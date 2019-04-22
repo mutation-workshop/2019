@@ -10,9 +10,9 @@ thumbnail: andreas.jpg
 alt: Andreas Zeller
 website:  https://www.cispa.saarland/people/zeller
 topic: >
- Grammars for Mutation Testing
+ [Grammars for Mutation Testing](https://mutation-workshop.github.io/2019/Grammars_for_Mutation_Testing.pdf)
 abstract: > 
- TBD
+ -
 bio: >
- TBD
+  Andreas Zeller is Faculty at the CISPA Helmholtz Center for Information Security, and professor for Software Engineering at Saarland University, both in Saarbrücken, Germany. His research concerns the analysis of large software systems and their development process. In 2010, Zeller was inducted as Fellow of the ACM for his contributions to automated debugging and mining software archives, for which he also was awarded 10-year impact awards from ACM SIGSOFT and ICSE. In 2011, he received an ERC Advanced Grant, Europe's highest and most prestigious individual research grant, for work on specification mining and test case generation. In 2013, Zeller co-founded Testfabrik AG, a start-up on automatic testing of Web applications, where he chairs the supervisory board.  In 2018, he received the highest research award of ACM SIGSOFT, the Outstanding Research Award.
 ---
