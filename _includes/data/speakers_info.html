@@ -22,7 +22,15 @@
                             {% unless haswebsite == "" %}
                                </a>
                             {% endunless %}
-                            <h3>{{ post.topic }}</h3>
+                            <h3>
+                            {% if post.slides != '' %}
+                              <a href="#{{ post.slides }}">
+                            {% endif %}
+                             {{ post.topic }}
+                            {% if post.slides != '' %}
+                              </a>
+                            {% endif %}
+                         </h3>
                             <p>{{ post.abstract }}</p>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
