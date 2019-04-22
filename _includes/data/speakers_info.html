@@ -33,6 +33,11 @@
                             {% endif %}
                          </h3>
                             <p>{{ post.abstract }}</p>
+                             {% if slides != '' %}
+                              <p>
+                              <a href="{{ slides }}">Slides</a>
+                              </p>
+                            {% endif %}
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
